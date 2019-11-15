@@ -1,4 +1,4 @@
-# connectx
+# connect_x
 
 A new Flutter application.
 
